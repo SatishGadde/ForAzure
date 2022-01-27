@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Gadde'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48FF3228414043EF88ED5AF1714F6140 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7DCEF6B283C4B0DA6B00A5E89EA69F4 }}
